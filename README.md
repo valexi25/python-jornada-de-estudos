@@ -10,6 +10,7 @@ Este espaço serve como um "caderno de anotações" público onde eu guardo todo
 
 Esta é a estrutura de pastas principal, projetada para facilitar a navegação.
 
+```text
 📁 python-jornada-de-estudos/
 │
 ├── 📁 1_Exercicios_Basicos/
@@ -33,8 +34,5 @@ Esta é a estrutura de pastas principal, projetada para facilitar a navegação.
 │   └── 📁 praticas/
 │
 └── 📁 4_Curso_Python_Espanol/
-├── 📁 01_conceptos_basicos/
-└── 📁 02_mini_proyectos/
----
-
-Sinta-se à vontade para explorar e acompanhar minha evolução!
+    ├── 📁 01_conceptos_basicos/
+    └── 📁 02_mini_proyectos/
